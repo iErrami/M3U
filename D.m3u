@@ -1,25 +1,359 @@
-﻿#EXTM3U
-
-
-#EXTINF:-1,Bein Sports Max 1
-http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/914490.m3u8
-#EXTINF:-1,Bein Sports Max 1
-http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/914597.m3u8
-#EXTINF:-1,Bein Sports Max 2
-http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/914489.m3u8
-#EXTINF:-1,Bein Sports Max 2
-http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/914598.m3u8
-#EXTINF:-1,Bein Sports Max 3
-http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/914488.m3u8
-#EXTINF:-1,Bein Sports Max 3
-http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/914599.m3u8
-#EXTINF:-1,Bein Sports Max 4
-http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/914487.m3u8
-#EXTINF:-1,Bein Sports Max 4
-http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/914498.m3u8
-#EXTINF:-1,Bein Sports Max 5
-http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/914515.m3u8
-#EXTINF:-1,Bein Sports Max 5
-http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/914509.m3u8
-#EXTINF:-1,Bein Sports Max 6
-http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/1388015.m3u8
+#EXTM3U
+#EXTINF:-1,Bein Sport  SD1
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261683
+#EXTINF:-1,Bein Sport SD2
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261684
+#EXTINF:-1,Bein Sport SD3
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261685
+#EXTINF:-1,Bein Sport SD4
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261686
+#EXTINF:-1,Bein Sport SD5
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261687
+#EXTINF:-1,Bein Sport SD6
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261688
+#EXTINF:-1,Bein Sport SD7
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261689
+#EXTINF:-1,Bein Sport SD8
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261690
+#EXTINF:-1,Bein Sport SD9
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261691
+#EXTINF:-1,Bein Xtra SD1
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261692
+#EXTINF:-1,Bein Xtra SD2
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261693
+#EXTINF:-1,Bein Xtra SD3
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261694
+#EXTINF:-1,Bein Sport English 1 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261695
+#EXTINF:-1,Bein Sport English 2 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261696
+#EXTINF:-1,Bein Sport French SD1
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261697
+#EXTINF:-1,Bein Sport French SD2
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261698
+#EXTINF:-1,Bein Sport News HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261621
+#EXTINF:-1,Bein Global HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261622
+#EXTINF:-1,beIN SPORTS 4K 1
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261623
+#EXTINF:-1,beIN SPORTS  4K 2
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261624
+#EXTINF:-1,beIN SPORTS  4K 3
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261625
+#EXTINF:-1,beIN SPORTS 4K 4
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261626
+#EXTINF:-1,beIN SPORTS 4K 5
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261627
+#EXTINF:-1,beIN SPORTS 4K 6
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261628
+#EXTINF:-1,beIN SPORTS 4K 7
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261629
+#EXTINF:-1,beIN SPORTS 4K 8
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261630
+#EXTINF:-1,beIN SPORTS 4K 9
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261631
+#EXTINF:-1,Bein Xtra 4K 1
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261632
+#EXTINF:-1,Bein Xtra 4K 2
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261633
+#EXTINF:-1,beIN Xtra 4K 3
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261634
+#EXTINF:-1,Bein Sport NBA 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261635
+#EXTINF:-1,beIN Sport English 1 4k
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261636
+#EXTINF:-1,beIN Sport English 2 4k
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261637
+#EXTINF:-1,beIN Sport French 4k 1
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261638
+#EXTINF:-1,beIN Sport French 4k 2
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261639
+#EXTINF:-1,Bein Sport AFC 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261640
+#EXTINF:-1,Bein Sport AFC 1 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261641
+#EXTINF:-1,Bein Sport AFC 2 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261642
+#EXTINF:-1,Bein Sport AFC 3 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261643
+#EXTINF:-1,Bein Sport AFC 4 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261644
+#EXTINF:-1,Bein Sport AFC 5 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261645
+#EXTINF:-1,Bein Sports HD1 1080
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261646
+#EXTINF:-1,Bein Sports HD2 1080
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261647
+#EXTINF:-1,Bein Sports HD3 1080
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261648
+#EXTINF:-1,Bein Sports HD4 1080
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261649
+#EXTINF:-1,Bein Sports HD5 1080
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261650
+#EXTINF:-1,Bein Sports HD6 1080
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261651
+#EXTINF:-1,Bein Sports HD7 1080
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261652
+#EXTINF:-1,Bein Sports HD8 1080
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261653
+#EXTINF:-1,Bein Sports HD9 1080
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261654
+#EXTINF:-1,Bein Xtra HD1 720
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261655
+#EXTINF:-1,Bein Xtra HD2 720
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261656
+#EXTINF:-1,Bein Xtra HD3 1080
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261657
+#EXTINF:-1,Bein Sport NBA HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261658
+#EXTINF:-1,Bein Sports English 1 1080
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261659
+#EXTINF:-1,Bein Sports English 2 1080
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261660
+#EXTINF:-1,Bein Sports French HD1 1080
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261661
+#EXTINF:-1,Bein Sports French HD2 1080
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261662
+#EXTINF:-1,Bein Sport HD1 720
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261663
+#EXTINF:-1,Bein Sport HD2 720
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261664
+#EXTINF:-1,Bein Sport HD3 720
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261665
+#EXTINF:-1,Bein Sport HD4 720
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261666
+#EXTINF:-1,Bein Sport HD5 720
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261667
+#EXTINF:-1,Bein Sport HD6 720
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261668
+#EXTINF:-1,Bein Sport HD7 720
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261669
+#EXTINF:-1,Bein Sport HD8 720
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261670
+#EXTINF:-1,Bein Sport HD9 720
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261671
+#EXTINF:-1,Bein Xtra HD3 720
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261672
+#EXTINF:-1,Bein Sport English 1 720
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261673
+#EXTINF:-1,Bein Sport English 2 720
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261674
+#EXTINF:-1,Bein Sport French HD1 720
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261675
+#EXTINF:-1,Bein Sport French HD2 720
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261676
+#EXTINF:-1,Bein Sport AFC HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261677
+#EXTINF:-1,Bein Sport AFC 1 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261678
+#EXTINF:-1,Bein Sport AFC 2 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261679
+#EXTINF:-1,Bein Sport AFC 3 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261680
+#EXTINF:-1,Bein Sport AFC 4 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261681
+#EXTINF:-1,Bein Sport AFC 5 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261682
+#EXTINF:-1,Bein Sport AFC SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261699
+#EXTINF:-1,Bein Sport AFC 1 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261700
+#EXTINF:-1,Bein Sport AFC 2 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261701
+#EXTINF:-1,Bein Sport AFC 3 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261702
+#EXTINF:-1,Bein Sport AFC 4 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261703
+#EXTINF:-1,Bein Sport AFC 5 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261704
+#EXTINF:-1,Bein Global 4k
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/286327
+#EXTINF:-1,Bein Global SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/286328
+#EXTINF:-1,Abu Dhabi ASIA  1
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253579
+#EXTINF:-1,Abu Dhabi ASIA 2
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253580
+#EXTINF:-1,|SPO|  AD Sports 1 HEVC
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253581
+#EXTINF:-1,|SPO|  AD Sports 2 HEVC
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253582
+#EXTINF:-1,Al Kass 1 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253604
+#EXTINF:-1,Al Kass 2 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253605
+#EXTINF:-1,Al Kass 3 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253606
+#EXTINF:-1,Al Kass 4 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253607
+#EXTINF:-1,Al Kass 5 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253608
+#EXTINF:-1,IQ - AL-RABIAA SPORT 1
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/271278
+#EXTINF:-1,IQ - AL-RABIAA SPORT 2
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/271279
+#EXTINF:-1,IQ - AL-RABIAA SPORT +1
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/271280
+#EXTINF:-1,IQ - AL-RABIAA SPORT +2
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/271281
+#EXTINF:-1,SA - THMANYAH 1 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/282800
+#EXTINF:-1,SA - THMANYAH 2 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/282801
+#EXTINF:-1,SA - THMANYAH 1 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/282802
+#EXTINF:-1,SA - THMANYAH 2 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/282803
+#EXTINF:-1,SA - THMANYAH 3 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/283108
+#EXTINF:-1,SA - THMANYAH 3 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/283109
+#EXTINF:-1,EG - ON SPORT HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/287409
+#EXTINF:-1,EG - ON SPORT PLUS HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/287410
+#EXTINF:-1,EG - ON SPORT MAX HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/287411
+#EXTINF:-1,EG - ON SPORT HEVC
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/287412
+#EXTINF:-1,EG - ON SPORT PLUS HEVC
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/287413
+#EXTINF:-1,EG - ON SPORT MAX HEVC
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/287414
+#EXTINF:-1,AE - AL SHARJAH SPORT
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/250190
+#EXTINF:-1,AE - DUBAI SPORT 2 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261053
+#EXTINF:-1,AE - DUBAI SPORT 3 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261055
+#EXTINF:-1,AE - AD SPORT PREMIUM 1 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/271094
+#EXTINF:-1,AE - AD SPORT PREMIUM 2 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/271095
+#EXTINF:-1,Jawy-HD AD Sports 1 Premium HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/271430
+#EXTINF:-1,Jawy-HD AD Sports 2 Premium HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/271431
+#EXTINF:-1,AE - DUBAI SPORT 1 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/1280
+#EXTINF:-1,AE - AD SPORT PREMIUM 1 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/250228
+#EXTINF:-1,AE - AD SPORT PREMIUM 2 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/250229
+#EXTINF:-1,AE - ABU DHABI SPORTS 2 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/1859
+#EXTINF:-1,AE - ABU DHABI SPORTS 1 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/3883
+#EXTINF:-1,AE - ABU DHABI SPORTS 3 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/125802
+#EXTINF:-1,AD Sports Asia Live Event1 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253616
+#EXTINF:-1,AD Sports Asia Live Event 1 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253617
+#EXTINF:-1,AD Sports Asia Live Event 2 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253618
+#EXTINF:-1,AD Sports Asia Live Event 2 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253619
+#EXTINF:-1,StarzPlay / AD SPORTS 3+
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253620
+#EXTINF:-1,StarzPlay / AD SPORTS 2+
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253621
+#EXTINF:-1,StarzPlay / AD SPORTS 3 HD+
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253623
+#EXTINF:-1,StarzPlay / AD SPORTS 1 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253629
+#EXTINF:-1,StarzPlay / AD SPORTS 1 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253630
+#EXTINF:-1,AD SPORTS ASIA 1 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253787
+#EXTINF:-1,AD SPORTS ASIA 2 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253788
+#EXTINF:-1,AD SPORTS ASIA 1 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253789
+#EXTINF:-1,AD SPORTS ASIA 2 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/253790
+#EXTINF:-1,AD SPORTS ASIA 1 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/255272
+#EXTINF:-1,AD SPORTS ASIA 2 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/255273
+#EXTINF:-1,MOVISTAR COPA AMERICA 1 
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/267810
+#EXTINF:-1,MOVISTAR COPA AMERICA 2
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/267811
+#EXTINF:-1,Al Kass 1 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/286329
+#EXTINF:-1,Al Kass 2 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/286330
+#EXTINF:-1,Al Kass 3 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/286331
+#EXTINF:-1,Al Kass 4 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/286332
+#EXTINF:-1,Al Kass 5 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/286333
+#EXTINF:-1,TEST - Bein Sport 1 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/289723
+#EXTINF:-1,TEST - Bein Sport 2 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/289724
+#EXTINF:-1,TEST - Bein Sport 3 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/289725
+#EXTINF:-1,TEST - Bein Sport Max 4 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/289726
+#EXTINF:-1,TEST - Bein Sport Max 5 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/289727
+#EXTINF:-1,TEST - Bein Sport Max 6 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/289728
+#EXTINF:-1,TEST - Bein Sport Max 7 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/289729
+#EXTINF:-1,FR-REU| Bein sports 1 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/266043
+#EXTINF:-1,FR-REU| Bein sports 2 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/266044
+#EXTINF:-1,FR-REU| Bein sports 3 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/266045
+#EXTINF:-1,FR-REU| Bein sports max 4 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/266046
+#EXTINF:-1,FR-REU| Bein sports max 5 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/266047
+#EXTINF:-1,FR-CAR| bein sports 1
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/266185
+#EXTINF:-1,FR-CAR| bein sports 2
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/266186
+#EXTINF:-1,FR-CAR| bein sports 3
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/266187
+#EXTINF:-1,FR-CAR| bein sports max 4
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/266188
+#EXTINF:-1,FR-CAR| bein sports max 5
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/266189
+#EXTINF:-1,VIX - BeIN SPORTS XTRA
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/286367
+#EXTINF:-1,FR - BEIN SPORTS 1 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/251496
+#EXTINF:-1,FR - BEIN SPORTS 2 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/251497
+#EXTINF:-1,FR - BEIN SPORTS 3 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/251498
+#EXTINF:-1,FR - BEIN SPORTS 1 FHD 
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/252382
+#EXTINF:-1,FR - BEIN SPORTS 1 HEVC
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/252383
+#EXTINF:-1,FR - BEIN SPORTS 2 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/251426
+#EXTINF:-1,FR - BEIN SPORTS 2 FHD²
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/251427
+#EXTINF:-1,FR - BEIN SPORTS 3 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/251428
+#EXTINF:-1,FR - BEIN SPORTS MAX 4 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/251429
+#EXTINF:-1,FR - BEIN SPORTS MAX 5 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/251430
+#EXTINF:-1,FR - BEIN SPORTS MAX 6 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/251431
+#EXTINF:-1,FR - BEIN SPORTS MAX 7 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/251432
+#EXTINF:-1,FR - BEIN SPORTS MAX 8 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/251433
+#EXTINF:-1,FR - BEIN SPORTS MAX 9 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/251434
+#EXTINF:-1,FR - BEIN SPORTS MAX 10 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/251435
