@@ -1,0 +1,32 @@
+﻿#EXTM3U
+#EXTINF:-1,BEIN MAX 1
+
+https://live.aab1.top:443/odai/123321/9088.ts
+
+#EXTINF:-1,BEIN MAX 1 HD
+
+https://live.aab1.top:443/odai/123321/9088.ts
+
+#EXTINF:-1,BEIN MAX 1 FHD
+
+https://live.aab1.top:443/odai/123321/9087.ts
+
+#EXTINF:-1,BEIN MAX 1 **
+
+https://live.aab1.top:443/odai/123321/65.ts
+
+#EXTINF:-1,BEIN MAX 1*
+
+https://live.aab1.top:443/odai/123321/66.ts
+
+#EXTINF:-1,BEIN MAX 2
+
+https://live.aab1.top:443/odai/123321/67.ts
+
+#EXTINF:-1,BEIN MAX 3
+
+https://live.aab1.top:443/odai/123321/69.ts
+
+#EXTINF:-1,BEIN MAX 3*
+
+https://live.aab1.top:443/odai/123321/70.ts
